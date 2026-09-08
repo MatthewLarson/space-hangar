@@ -1,8 +1,12 @@
 # Space Hangar
 
-**Space Hangar** is a room pack for [DiceyTable](https://diceytable.com) — a free physics tabletop you play in your browser. Add it to any table, with no download required.
+**Space Hangar** is a Space Station room pack for [DiceyTable](https://diceytable.com) — a free physics tabletop you play in your browser. Add it to any table, with no download required.
 
 **[Get Space Hangar on DiceyTable](https://diceytable.com/mods/space-hangar)**
+
+---
+
+A space hanger and a beautiful planetary orbital view.
 
 ---
 
