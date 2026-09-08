@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "1.0",
+  "id": "space-hangar",
+  "name": "Space Hangar",
+  "version": "0.1.0",
+  "type": "room-pack",
+  "entry": {
+    "setup": "setup.json"
+  },
+  "assets": [],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "license": "MIT",
+  "tags": []
+}
