@@ -1,0 +1,170 @@
+{
+  "schemaVersion": "1.0",
+  "id": "space-hangar",
+  "name": "Space Hangar",
+  "version": "0.1.4",
+  "type": "room-pack",
+  "entry": {
+    "setup": "setup.json"
+  },
+  "assets": [
+    "Material_baseColor.webp",
+    "concrete_pavement_baseColor.webp",
+    "concrete_pavement_metallicRoughness.webp",
+    "concrete_pavement_normal.webp",
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
+    "models/scene.glb",
+    "models/scene.meta.json",
+    "textures/scene-diffuse-26f63d68.ktx2",
+    "textures/scene-normal-370a54db.ktx2",
+    "textures/scene-roughness-5d46d9fc.ktx2",
+    "up-deep space-UpscaledTopaz-sharpen-enhance-4x.webp"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "license": "MIT",
+  "tags": [
+    "hangar",
+    "space",
+    "space-station",
+    "orbit"
+  ],
+  "credits": [
+    {
+      "id": "credit-b8abc14f-f78f-44ac-b089-33c1b60d02ff",
+      "paths": [
+        "up-deep space-UpscaledTopaz-sharpen-enhance-4x.webp"
+      ],
+      "origin": "third-party",
+      "title": "Deep Space skybox",
+      "creator": "Jungle Jim",
+      "creatorUrl": "https://sketchfab.com/jungle_jim",
+      "sourceUrl": "https://sketchfab.com/3d-models/deep-space-skybox-2d87bae35cff40598c859f2163b4b3b0",
+      "licenseName": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "recordedAt": "2026-09-08T16:49:58.521Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-08T16:49:58.521Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-af496f3a-9bd5-4a43-84f7-07b17a0e072a",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-08T18:03:21.938Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-08T18:03:21.938Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-cb394334-53f0-4688-b4b0-b0d579ba2ae1",
+      "paths": [
+        "media/screenshot-0.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-08T18:03:55.871Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-08T18:03:55.871Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-af5eebb5-8ae2-4d5a-b25b-a919bc1d18c0",
+      "paths": [
+        "media/screenshot-1.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-08T18:04:15.815Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-08T18:04:15.815Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-6c0bc2e1-8599-43b7-ad40-915d141d030e",
+      "paths": [
+        "models/scene.glb",
+        "models/scene.meta.json",
+        "textures/scene-diffuse-26f63d68.png",
+        "textures/scene-diffuse-9e1fd18b.jpg",
+        "textures/scene-normal-370a54db.jpg",
+        "textures/scene-roughness-5d46d9fc.png"
+      ],
+      "origin": "third-party",
+      "title": "Brutalist Interior VR room [Baked]",
+      "creator": "abhayexe",
+      "creatorUrl": "https://sketchfab.com/abhayexe",
+      "sourceUrl": "https://sketchfab.com/3d-models/brutalist-interior-vr-room-baked-7781b7f1cfde42dabc613a5522f4d2b0",
+      "licenseName": "Free Standard",
+      "licenseUrl": "https://sketchfab.com/licenses",
+      "recordedAt": "2026-09-08T21:46:10.204Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-08T21:46:10.204Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-a3027071-96c5-43b1-a4b2-516a38ef045e",
+      "paths": [
+        "Material_baseColor.webp",
+        "concrete_pavement_baseColor.webp",
+        "concrete_pavement_metallicRoughness.webp",
+        "concrete_pavement_normal.webp",
+        "originals/concrete_pavement_metallicRoughness.webp",
+        "originals/concrete_pavement_normal.webp"
+      ],
+      "origin": "third-party",
+      "title": "Brutalist Interior VR room [Baked]",
+      "creator": "abhayexe",
+      "creatorUrl": "https://sketchfab.com/abhayexe",
+      "sourceUrl": "https://sketchfab.com/3d-models/brutalist-interior-vr-room-baked-7781b7f1cfde42dabc613a5522f4d2b0",
+      "licenseName": "Free Standard",
+      "licenseUrl": "https://sketchfab.com/licenses",
+      "recordedAt": "2026-09-08T21:49:06.158Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-08T21:49:06.158Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ],
+  "summary": "A space hanger and a beautiful planetary orbital view.",
+  "slug": "space-hangar",
+  "description": "A space hanger and a beautiful planetary orbital view.",
+  "category": "room-space-station",
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0.11470388058601552,
+        "y": 0,
+        "w": 0.776093966282405,
+        "h": 0.9058147910435359
+      }
+    },
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0.023693209468812745,
+        "y": 0,
+        "w": 0.813227754248413,
+        "h": 0.9446114848553853
+      }
+    }
+  ]
+}

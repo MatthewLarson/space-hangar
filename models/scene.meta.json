@@ -1,0 +1,24 @@
+{
+  "locked": true,
+  "materialSlots": {
+    "Material": "mat-e15aba33-3e5c-4bd7-9950-6f0daab34039",
+    "concrete_pavement": "mat-a9c292fb-c6a5-4db0-bb68-db366e511968",
+    "Material.001": "mat-a37e7134-5a41-450d-8b37-87f2abc08d4f"
+  },
+  "lightmapStatic": true,
+  "collider": {
+    "mode": "custom",
+    "entries": [
+      {
+        "id": "collider-1",
+        "name": "box",
+        "shape": "box",
+        "size": {
+          "x": 10.699999809265137,
+          "y": 4.222940772771835,
+          "z": 6.785442352294922
+        }
+      }
+    ]
+  }
+}
