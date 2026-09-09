@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "space-hangar",
   "name": "Space Hangar",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "type": "room-pack",
   "entry": {
     "setup": "setup.json"
