@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "space-hangar",
   "name": "Space Hangar",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "type": "room-pack",
   "entry": {
     "setup": "setup.json"
@@ -19,12 +19,17 @@
     "concrete_pavement_baseColor.webp",
     "concrete_pavement_metallicRoughness.webp",
     "concrete_pavement_normal.webp",
+    "hangar-concrete-pavement-basecolor-390b25ca.webp",
     "media/cover-thumb.webp",
     "media/cover.webp",
     "media/screenshot-0.webp",
     "media/screenshot-1.webp",
+    "models/hangar.glb",
+    "models/hangar.meta.json",
     "models/scene.glb",
     "models/scene.meta.json",
+    "textures/hangar-concrete-pavement-metallicroughness-4d3cc70c.webp",
+    "textures/hangar-concrete-pavement-normal-1b0e4cdc.webp",
     "textures/scene-diffuse-26f63d68.ktx2",
     "textures/scene-normal-370a54db.ktx2",
     "textures/scene-roughness-5d46d9fc.ktx2",
@@ -145,6 +150,49 @@
       "attestation": {
         "termsVersion": "2026-09-07.1",
         "acceptedAt": "2026-09-08T21:49:06.158Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-ab61c89c-7e45-4a77-97c8-1be960ab70bc",
+      "paths": [
+        "hangar-concrete-pavement-basecolor-390b25ca.webp",
+        "originals/hangar-concrete-pavement-basecolor-390b25ca.webp"
+      ],
+      "origin": "third-party",
+      "title": "Brutalist Interior VR room [Baked]",
+      "creator": "abhayexe",
+      "creatorUrl": "https://sketchfab.com/abhayexe",
+      "sourceUrl": "https://sketchfab.com/3d-models/brutalist-interior-vr-room-baked-7781b7f1cfde42dabc613a5522f4d2b0",
+      "licenseName": "Free Standard",
+      "licenseUrl": "https://sketchfab.com/licenses",
+      "recordedAt": "2026-09-10T17:41:32.736Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-10T17:41:32.736Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-b9f7a87a-902a-499e-a77a-8d8a1323c3d3",
+      "paths": [
+        "models/hangar.glb",
+        "models/hangar.meta.json",
+        "textures/hangar-concrete-pavement-basecolor-390b25ca.webp",
+        "textures/hangar-concrete-pavement-metallicroughness-4d3cc70c.webp",
+        "textures/hangar-concrete-pavement-normal-1b0e4cdc.webp"
+      ],
+      "origin": "third-party",
+      "title": "Brutalist Interior VR room [Baked]",
+      "creator": "abhayexe",
+      "creatorUrl": "https://sketchfab.com/abhayexe",
+      "sourceUrl": "https://sketchfab.com/3d-models/brutalist-interior-vr-room-baked-7781b7f1cfde42dabc613a5522f4d2b0",
+      "licenseName": "Free Standard",
+      "licenseUrl": "https://sketchfab.com/licenses",
+      "recordedAt": "2026-09-10T17:42:46.819Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-10T17:42:46.819Z",
         "signedName": "Matt Larson"
       }
     }
